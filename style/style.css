@@ -833,6 +833,7 @@
 
 #main__contact .main__contacts .main__contacts--content .form__form .submit {
   text-align: end;
+  cursor: pointer;
 }
 
 #main__contact .main__contacts .main__contacts--content .form__form .submit #submit {
