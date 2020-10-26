@@ -797,6 +797,12 @@
 #main__contact .main__contacts .main__contacts--content .form__form .title div input {
   width: 100%;
   padding: 0.5rem 0.5rem;
+  border: none;
+  border-bottom: 1px solid #555555;
+}
+
+#main__contact .main__contacts .main__contacts--content .form__form .title div input:focus {
+  outline: none;
 }
 
 #main__contact .main__contacts .main__contacts--content .form__form div h2 {

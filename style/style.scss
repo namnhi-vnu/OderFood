@@ -711,6 +711,11 @@ $timing: 0.3s;
             input {
               width: 100%;
               padding: 0.5rem 0.5rem;
+              border: none;
+              border-bottom: 1px solid #555555;
+              &:focus {
+                outline: none;
+              }
             }
           }
         }
